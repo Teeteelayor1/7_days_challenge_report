@@ -15,7 +15,7 @@ Maintaining data integrity is important to make sure data and business analysts 
 ### AVAILABILITY
 Availability refers to the idea that the people who need access to data can get it—without affecting its confidentiality or integrity. 
 
-### CYBER THREATS
+### 2. CYBER THREATS
 Phishing is the practice of sending fraudulent communications that appear to come from a legitimate and reputable source, usually through email and text messaging. The attacker's goal is to steal money, gain access to sensitive data and login information, or to install malware on the victim's device.
 
 Malware, short for malicious software, refers to any intrusive software developed by cybercriminals (often called hackers) to steal data and damage or destroy computers and computer systems. Examples of common malware include viruses, worms, Trojan viruses, spyware, and adware
