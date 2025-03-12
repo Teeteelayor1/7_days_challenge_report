@@ -22,7 +22,28 @@ Malware, short for malicious software, refers to any intrusive software develope
 
 Ransomware is a type of malware which prevents you from accessing your device and the data stored on it, usually by encrypting your files. A criminal group will then demand a ransom in exchange for decryption. The computer itself may become locked, or the data on it might be encrypted, stolen or deleted.
 
+**BASIC LINUX COMMANDS**
+- Open a terminal and run:
+````
+ls # list files
+cd /home # change directory
+pwd # show current directory
+mkdir # create  a directory
+rmdir # remove a directory
+````
 
+Learn how to use the **man command** for help (`man ls`).
+
+**SIMPLE BASH SCRIPT**
+
+ - Open a text editor (`nano script.sh`) and type:
+     ```bash
+     #!/bin/bash
+     echo "Hello, Cybersecurity World!"
+     ```
+   - Save the file, make it executable (`chmod +x script.sh`), and run it (`./script.sh`).
+
+---
 
 
 
